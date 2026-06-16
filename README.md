@@ -6,35 +6,149 @@ Building intelligent infrastructure platforms spanning transportation, communica
 
 ---
 
-## Infrastructure Portfolio
+## About Me
 
-### 🚘 CRUUZ
+Technology professional, cybersecurity practitioner, and systems architect with experience in enterprise architecture, infrastructure design, cybersecurity, platform engineering, realtime systems, and digital transformation.
 
-Transportation Infrastructure Platform
+Founder and Lead Systems Architect of the Nexaro ecosystem, responsible for designing and planning transportation infrastructure, communication infrastructure, live media infrastructure, enterprise operations platforms, and internet trust infrastructure.
 
-### 💬 Whisspra
-
-Communication Infrastructure Platform
-
-### 📺 Streamz
-
-Live Media Infrastructure Platform
-
-### 🏢 Nexaro Ops Console
-
-Enterprise Operations Infrastructure
-
-### 🌐 Nexaro Web
-
-Corporate Ecosystem Infrastructure
-
-### 🛡️ NETSHIELD
-
-Internet Trust Infrastructure Platform
+My long-term focus is the convergence of Artificial Intelligence, Cybersecurity, Enterprise Architecture, and Intelligent Digital Infrastructure.
 
 ---
 
-## Focus Areas
+## Connect
+
+📍 Germany
+
+🔗 LinkedIn
+https://www.linkedin.com/in/maxcb
+
+📧 Email
+[maxcollinsbotchway88@gmail.com](mailto:maxcollinsbotchway88@gmail.com)
+
+---
+
+# Infrastructure Portfolio
+
+## 🚘 CRUUZ
+
+### Transportation Infrastructure Platform
+
+CRUUZ is a mobility infrastructure platform designed to connect riders, drivers, dispatch systems, payments, wallets, safety systems, operations teams, and future intelligent transportation services.
+
+Core Areas:
+
+* Rider Platform
+* Driver Platform
+* Dispatch Engine
+* Wallet System
+* Payment Infrastructure
+* Safety Systems
+* Operations Platform
+* Marketplace Intelligence
+
+---
+
+## 💬 Whisspra
+
+### Communication Infrastructure Platform
+
+Whisspra is a privacy-first communication ecosystem focused on secure messaging, creator monetization, discovery systems, digital identity, and realtime interactions.
+
+Core Areas:
+
+* Messaging Infrastructure
+* Creator Economy
+* Discovery Systems
+* Momentum Engine
+* Wallet Ecosystem
+* Privacy Architecture
+* Realtime Communication
+
+---
+
+## 📺 Streamz
+
+### Live Media Infrastructure Platform
+
+Streamz is a live-first media ecosystem focused on livestreaming, creator monetization, engagement systems, realtime communication, and intelligent content experiences.
+
+Core Areas:
+
+* Livestreaming
+* Creator Economy
+* Gift Systems
+* Wallet Infrastructure
+* Engagement Systems
+* Live Operations
+* Realtime Architecture
+
+---
+
+## 🏢 Nexaro Ops Console
+
+### Enterprise Operations Infrastructure
+
+Nexaro Ops provides centralized management and operational intelligence across finance, safety, growth, dispatch, compliance, trust, and executive decision-making systems.
+
+Core Areas:
+
+* Operations Intelligence
+* Finance Systems
+* Safety Systems
+* Marketing & Growth
+* Compliance
+* Executive Intelligence
+* Department Workspaces
+
+---
+
+## 🌐 Nexaro Web
+
+### Corporate Ecosystem Infrastructure
+
+Nexaro Web serves as the digital gateway for Nexaro products, services, innovation initiatives, clients, and future ecosystem integrations.
+
+Core Areas:
+
+* Corporate Presence
+* Client Portal Architecture
+* Product Integration
+* Service Infrastructure
+* Digital Ecosystem
+
+---
+
+## 🛡️ NETSHIELD
+
+### Internet Trust Infrastructure Platform
+
+**Browse. Verify. Protect. Earn.**
+
+NETSHIELD is a trust-first platform focused on cybersecurity, identity verification, fraud prevention, trust intelligence, secure workspaces, and AI-assisted security.
+
+Core Pillars:
+
+* Trust
+* Identity
+* Security
+* Artificial Intelligence
+* Workspaces
+* Network
+
+Future Systems:
+
+* Trust Engine
+* Trust Graph
+* AI Security Assistant
+* AI Fraud Investigator
+* Identity Vault
+* Reputation Passport
+* Verification APIs
+
+---
+
+# Focus Areas
 
 * Enterprise Architecture
 * Systems Architecture
@@ -45,10 +159,52 @@ Internet Trust Infrastructure Platform
 * Digital Transformation
 * Realtime Systems
 * Trust & Identity Systems
+* Intelligent Infrastructure
 
 ---
 
-## Current Learning Path
+# Technologies
+
+## Architecture & Strategy
+
+* Enterprise Architecture
+* Systems Design
+* Platform Engineering
+* Infrastructure Design
+* Product Architecture
+* Solution Architecture
+
+## Engineering
+
+* JavaScript
+* TypeScript
+* Node.js
+* React
+* React Native
+* Express.js
+* REST APIs
+* Socket.IO
+
+## Cybersecurity
+
+* CEH v11
+* Security Architecture
+* Network Security
+* Threat Analysis
+* Identity & Trust Systems
+
+---
+
+# Certifications
+
+* Certified Ethical Hacker (CEH v11)
+* TryHackMe Junior Penetration Tester
+* Mastercard Cybersecurity Virtual Experience Program
+* Edureka Cybersecurity Certification
+
+---
+
+# Current Learning Path
 
 * AI Systems Architecture
 * Artificial Intelligence Engineering
@@ -61,36 +217,14 @@ Internet Trust Infrastructure Platform
 
 ---
 
-## Technologies
+## Mission
 
-**Architecture & Strategy**
-
-* Enterprise Architecture
-* Systems Design
-* Platform Engineering
-* Infrastructure Design
-
-**Engineering**
-
-* JavaScript
-* TypeScript
-* Node.js
-* React
-* React Native
-* REST APIs
-* Socket.IO
-
-**Cybersecurity**
-
-* CEH v11
-* Network Security
-* Threat Analysis
-* Security Architecture
+To design and build infrastructure that makes technology smarter, safer, more trustworthy, and more accessible.
 
 ---
 
 ### Building the Next Era
 
-Founder of the Nexaro ecosystem:
+**Nexaro Technologies**
 
 CRUUZ • Whisspra • Streamz • Nexaro Ops • Nexaro Web • NETSHIELD
