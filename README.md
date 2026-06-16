@@ -8,11 +8,11 @@ Building intelligent infrastructure platforms spanning transportation, communica
 
 ## About Me
 
-Technology professional, cybersecurity practitioner, and systems architect with experience in enterprise architecture, infrastructure design, cybersecurity, platform engineering, realtime systems, and digital transformation.
+Technology professional, cybersecurity practitioner, and systems architect focused on enterprise architecture, infrastructure design, artificial intelligence, cybersecurity, platform engineering, and digital transformation.
 
-Founder and Lead Systems Architect of the Nexaro ecosystem, responsible for designing and planning transportation infrastructure, communication infrastructure, live media infrastructure, enterprise operations platforms, and internet trust infrastructure.
+Founder and Lead Systems Architect of the Nexaro ecosystem, responsible for designing transportation infrastructure, communication infrastructure, live media infrastructure, enterprise operations systems, and internet trust infrastructure.
 
-My long-term focus is the convergence of Artificial Intelligence, Cybersecurity, Enterprise Architecture, and Intelligent Digital Infrastructure.
+My long-term focus is the convergence of Artificial Intelligence, Cybersecurity, Enterprise Architecture, Cloud Computing, and Intelligent Digital Infrastructure.
 
 ---
 
@@ -20,11 +20,14 @@ My long-term focus is the convergence of Artificial Intelligence, Cybersecurity,
 
 📍 Germany
 
-🔗 LinkedIn
+📧 Email  
+maxcollinsbotchway88@gmail.com
+
+🔗 LinkedIn  
 https://www.linkedin.com/in/maxcb
 
-📧 Email
-[maxcollinsbotchway88@gmail.com](mailto:maxcollinsbotchway88@gmail.com)
+💻 GitHub  
+https://github.com/maxbotchway
 
 ---
 
@@ -34,18 +37,18 @@ https://www.linkedin.com/in/maxcb
 
 ### Transportation Infrastructure Platform
 
-CRUUZ is a mobility infrastructure platform designed to connect riders, drivers, dispatch systems, payments, wallets, safety systems, operations teams, and future intelligent transportation services.
+CRUUZ is a mobility infrastructure platform connecting riders, drivers, operations teams, safety systems, payments, dispatch intelligence, and future transportation services.
 
-Core Areas:
+Core Systems:
 
-* Rider Platform
-* Driver Platform
-* Dispatch Engine
-* Wallet System
-* Payment Infrastructure
-* Safety Systems
-* Operations Platform
-* Marketplace Intelligence
+- Rider Platform
+- Driver Platform
+- Dispatch Engine
+- Wallet Infrastructure
+- Payment Systems
+- Safety Platform
+- Operations Platform
+- Marketplace Intelligence
 
 ---
 
@@ -55,15 +58,15 @@ Core Areas:
 
 Whisspra is a privacy-first communication ecosystem focused on secure messaging, creator monetization, discovery systems, digital identity, and realtime interactions.
 
-Core Areas:
+Core Systems:
 
-* Messaging Infrastructure
-* Creator Economy
-* Discovery Systems
-* Momentum Engine
-* Wallet Ecosystem
-* Privacy Architecture
-* Realtime Communication
+- Messaging Infrastructure
+- Creator Economy
+- Discovery Engine
+- Momentum Engine
+- Wallet Ecosystem
+- Privacy Architecture
+- Realtime Communication
 
 ---
 
@@ -71,17 +74,17 @@ Core Areas:
 
 ### Live Media Infrastructure Platform
 
-Streamz is a live-first media ecosystem focused on livestreaming, creator monetization, engagement systems, realtime communication, and intelligent content experiences.
+Streamz is a live-first media ecosystem focused on livestreaming, creator monetization, realtime engagement, and intelligent content experiences.
 
-Core Areas:
+Core Systems:
 
-* Livestreaming
-* Creator Economy
-* Gift Systems
-* Wallet Infrastructure
-* Engagement Systems
-* Live Operations
-* Realtime Architecture
+- Livestreaming
+- Creator Economy
+- Gift Systems
+- Wallet Infrastructure
+- Engagement Systems
+- Live Operations
+- Realtime Architecture
 
 ---
 
@@ -91,15 +94,15 @@ Core Areas:
 
 Nexaro Ops provides centralized management and operational intelligence across finance, safety, growth, dispatch, compliance, trust, and executive decision-making systems.
 
-Core Areas:
+Core Systems:
 
-* Operations Intelligence
-* Finance Systems
-* Safety Systems
-* Marketing & Growth
-* Compliance
-* Executive Intelligence
-* Department Workspaces
+- Operations Intelligence
+- Finance Systems
+- Safety Systems
+- Marketing & Growth
+- Compliance
+- Executive Intelligence
+- Department Workspaces
 
 ---
 
@@ -109,13 +112,13 @@ Core Areas:
 
 Nexaro Web serves as the digital gateway for Nexaro products, services, innovation initiatives, clients, and future ecosystem integrations.
 
-Core Areas:
+Core Systems:
 
-* Corporate Presence
-* Client Portal Architecture
-* Product Integration
-* Service Infrastructure
-* Digital Ecosystem
+- Corporate Presence
+- Client Portal Architecture
+- Product Integration
+- Service Infrastructure
+- Digital Ecosystem
 
 ---
 
@@ -129,37 +132,37 @@ NETSHIELD is a trust-first platform focused on cybersecurity, identity verificat
 
 Core Pillars:
 
-* Trust
-* Identity
-* Security
-* Artificial Intelligence
-* Workspaces
-* Network
+- Trust
+- Identity
+- Security
+- Artificial Intelligence
+- Workspaces
+- Network
 
 Future Systems:
 
-* Trust Engine
-* Trust Graph
-* AI Security Assistant
-* AI Fraud Investigator
-* Identity Vault
-* Reputation Passport
-* Verification APIs
+- Trust Engine
+- Trust Graph
+- AI Security Assistant
+- AI Fraud Investigator
+- Identity Vault
+- Reputation Passport
+- Verification APIs
 
 ---
 
-# Focus Areas
+# Professional Expertise
 
-* Enterprise Architecture
-* Systems Architecture
-* Cybersecurity
-* Platform Engineering
-* Artificial Intelligence
-* Infrastructure Strategy
-* Digital Transformation
-* Realtime Systems
-* Trust & Identity Systems
-* Intelligent Infrastructure
+- Enterprise Architecture
+- Systems Architecture
+- Cybersecurity
+- Platform Engineering
+- Artificial Intelligence
+- Infrastructure Strategy
+- Digital Transformation
+- Realtime Systems
+- Trust & Identity Systems
+- Intelligent Infrastructure
 
 ---
 
@@ -167,59 +170,99 @@ Future Systems:
 
 ## Architecture & Strategy
 
-* Enterprise Architecture
-* Systems Design
-* Platform Engineering
-* Infrastructure Design
-* Product Architecture
-* Solution Architecture
+- Enterprise Architecture
+- Systems Design
+- Solution Architecture
+- Platform Engineering
+- Infrastructure Design
+- Product Architecture
 
 ## Engineering
 
-* JavaScript
-* TypeScript
-* Node.js
-* React
-* React Native
-* Express.js
-* REST APIs
-* Socket.IO
+- JavaScript
+- TypeScript
+- Node.js
+- React
+- React Native
+- Express.js
+- REST APIs
+- Socket.IO
+- PostgreSQL
+- JSON Databases
 
 ## Cybersecurity
 
-* CEH v11
-* Security Architecture
-* Network Security
-* Threat Analysis
-* Identity & Trust Systems
+- CEH v11
+- Security Architecture
+- Threat Analysis
+- Network Security
+- Identity & Trust Systems
+- Risk Assessment
 
 ---
 
 # Certifications
 
-* Certified Ethical Hacker (CEH v11)
-* TryHackMe Junior Penetration Tester
-* Mastercard Cybersecurity Virtual Experience Program
-* Edureka Cybersecurity Certification
+## Completed
+
+- Certified Ethical Hacker (CEH v11)
+- Mastercard Cybersecurity Virtual Experience Program
+- Edureka Cybersecurity Certification
+- TryHackMe Junior Penetration Tester
 
 ---
 
-# Current Learning Path
+# Current Learning & Certification Roadmap
 
-* AI Systems Architecture
-* Artificial Intelligence Engineering
-* Cloud Architecture
-* Enterprise Architecture
-* Cybersecurity Engineering
-* Machine Learning Systems
-* AWS Cloud Practitioner
-* Microsoft AI Learning Path
+## Artificial Intelligence
+
+- Elements of AI
+- IBM AI Engineering Professional Certificate
+- DeepLearning.AI Programs
+- Machine Learning Specialization
+- AI Agents & Autonomous Systems
+
+## Cloud Architecture
+
+- AWS Cloud Practitioner
+- AWS Solutions Architect Associate
+- Microsoft Azure Fundamentals (AZ-900)
+- Microsoft Azure AI Fundamentals (AI-900)
+
+## Enterprise Architecture
+
+- TOGAF Foundation
+- TOGAF Practitioner
+
+## Cybersecurity Architecture
+
+- CompTIA Security+
+- Microsoft Security, Compliance & Identity Fundamentals (SC-900)
+- Certificate of Cloud Security Knowledge (CCSK)
+
+## Data & AI Infrastructure
+
+- Databricks Fundamentals
+- Microsoft Data Fundamentals (DP-900)
+
+## Systems Architecture
+
+- Advanced System Design
+- Distributed Systems Engineering
+- Platform Architecture
+- Realtime Systems Architecture
 
 ---
 
-## Mission
+# Mission
 
-To design and build infrastructure that makes technology smarter, safer, more trustworthy, and more accessible.
+To design and build intelligent infrastructure that makes technology smarter, safer, more trustworthy, and more accessible.
+
+---
+
+# Vision
+
+To contribute to the future of transportation, communication, media, operations, cybersecurity, trust, and artificial intelligence through scalable digital infrastructure.
 
 ---
 
@@ -227,4 +270,4 @@ To design and build infrastructure that makes technology smarter, safer, more tr
 
 **Nexaro Technologies**
 
-CRUUZ • Whisspra • Streamz • Nexaro Ops • Nexaro Web • NETSHIELD
+🚘 CRUUZ • 💬 Whisspra • 📺 Streamz • 🏢 Nexaro Ops • 🌐 Nexaro Web • 🛡️ NETSHIELD
